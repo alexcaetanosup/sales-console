@@ -1,0 +1,137 @@
+[
+  {
+    "id": "1",
+    "name": "Maria Silva",
+    "company": "Tech Innovators",
+    "email": "maria.silva@tech.com",
+    "source": "Website",
+    "score": 85,
+    "status": "Novo"
+  },
+  {
+    "id": "2",
+    "name": "João Santos",
+    "company": "Global Solutions",
+    "email": "joao.santos@global.com",
+    "source": "Referral",
+    "score": 92,
+    "status": "Em Contato"
+  },
+  {
+    "id": "3",
+    "name": "Ana Souza",
+    "company": "Creative Minds",
+    "email": "ana.souza@creative.com",
+    "source": "Paid Ad",
+    "score": 67,
+    "status": "Qualificado"
+  },
+  {
+    "id": "4",
+    "name": "Pedro Oliveira",
+    "company": "Digital Dynamics",
+    "email": "pedro.olivera@digital.com",
+    "source": "Website",
+    "score": 75,
+    "status": "Novo"
+  },
+  {
+    "id": "5",
+    "name": "Camila Costa",
+    "company": "Future Tech",
+    "email": "camila.costa@future.com",
+    "source": "Cold Call",
+    "score": 55,
+    "status": "Em Contato"
+  },
+  {
+    "id": "6",
+    "name": "Ricardo Almeida",
+    "company": "Venture Group",
+    "email": "ricardo.almeida@venture.com",
+    "source": "Website",
+    "score": 88,
+    "status": "Qualificado"
+  },
+  {
+    "id": "7",
+    "name": "Julia Lima",
+    "company": "Innovate Solutions",
+    "email": "julia.lima@innovate.com",
+    "source": "Event",
+    "score": 95,
+    "status": "Novo"
+  },
+  {
+    "id": "8",
+    "name": "Carlos Henrique",
+    "company": "Quantum Dynamics",
+    "email": "carlos.h@quantum.com",
+    "source": "Referral",
+    "score": 80,
+    "status": "Em Contato"
+  },
+  {
+    "id": "9",
+    "name": "Beatriz Ramos",
+    "company": "Apex Corp",
+    "email": "beatriz.ramos@apex.com",
+    "source": "Website",
+    "score": 60,
+    "status": "Novo"
+  },
+  {
+    "id": "10",
+    "name": "Felipe Gomes",
+    "company": "Data Insights",
+    "email": "felipe.gomes@data.com",
+    "source": "Website",
+    "score": 78,
+    "status": "Qualificado"
+  },
+  {
+    "id": "11",
+    "name": "Gabriela Alves",
+    "company": "Swift Logistics",
+    "email": "gabriela.alves@swift.com",
+    "source": "Cold Call",
+    "score": 45,
+    "status": "Em Contato"
+  },
+  {
+    "id": "12",
+    "name": "Daniela Pereira",
+    "company": "Synergy Systems",
+    "email": "daniela.pereira@synergy.com",
+    "source": "Event",
+    "score": 90,
+    "status": "Novo"
+  },
+  {
+    "id": "13",
+    "name": "Lucas Fernandes",
+    "company": "Code Masters",
+    "email": "lucas.f@code.com",
+    "source": "Referral",
+    "score": 83,
+    "status": "Em Contato"
+  },
+  {
+    "id": "14",
+    "name": "Mariana Castro",
+    "company": "Innovate Tech",
+    "email": "mariana.c@innovate.com",
+    "source": "Paid Ad",
+    "score": 71,
+    "status": "Qualificado"
+  },
+  {
+    "id": "15",
+    "name": "Guilherme Santos",
+    "company": "Green Solutions",
+    "email": "guilherme.s@green.com",
+    "source": "Website",
+    "score": 65,
+    "status": "Novo"
+  }
+]
